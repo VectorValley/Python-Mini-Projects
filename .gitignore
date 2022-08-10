@@ -4,3 +4,4 @@
 .vsconfig
 .vscode
 *.key
+lib/
